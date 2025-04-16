@@ -35,8 +35,8 @@ sudo apt install metasploit-framework wget default-jdk aapt apksigner apache2 un
 
 
 
-chmod +x apk_payload_injector.sh
-sudo ./apk_payload_injector.sh
+chmod +x 3xpl0it
+sudo ./3xpl0it
 
 
 
